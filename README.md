@@ -1,6 +1,7 @@
-````markdown
 <!-- ====================================================== -->
+
 <!--                 RIFAT | CYBER OPS                      -->
+
 <!-- ====================================================== -->
 
 <p align="center">
@@ -12,7 +13,9 @@
 </p>
 
 <!-- ====================================================== -->
+
 <!--                    OPERATOR CARD                       -->
+
 <!-- ====================================================== -->
 
 <table align="center">
@@ -23,9 +26,9 @@
 <br><br>
 
 <img
-  src="https://github.com/rifatb794.png"
-  width="170"
-  alt="Rifat Bin Tayub"
+src="https://github.com/rifatb794.png"
+width="170"
+alt="Rifat Bin Tayub"
 />
 
 <br><br>
@@ -33,8 +36,8 @@
 <h3><code>RIFAT@CYBER:~$</code></h3>
 
 <img
-  src="https://komarev.com/ghpvc/?username=rifatb794&label=VISITORS&color=0284c7&style=flat-square"
-  alt="Profile Visitors"
+src="https://komarev.com/ghpvc/?username=rifatb794&label=VISITORS&color=0284c7&style=flat-square"
+alt="Profile Visitors"
 />
 
 </td>
@@ -68,43 +71,43 @@ I want to understand what is happening underneath.
 <br>
 
 <!-- ====================================================== -->
+
 <!--                    LIVE CONSOLE                        -->
+
 <!-- ====================================================== -->
 
 <p align="center">
-
-<img
-  src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=21&duration=2600&pause=800&color=38BDF8&center=true&vCenter=true&width=900&lines=%3E+tracing+packets...;%3E+understanding+systems...;%3E+analyzing+weaknesses...;%3E+learning+how+defense+works...;%3E+turning+curiosity+into+skills"
-  alt="Cyber Operations Console"
-/>
-
+  <img
+    src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=21&duration=2600&pause=800&color=38BDF8&center=true&vCenter=true&width=900&lines=%3E+tracing+packets...;%3E+understanding+systems...;%3E+analyzing+weaknesses...;%3E+learning+how+defense+works...;%3E+turning+curiosity+into+skills"
+    alt="Cyber Operations Console"
+  />
 </p>
 
 <h3 align="center">
-<code>UNDERSTAND FIRST | ANALYZE DEEPER | SECURE BETTER</code>
+  <code>UNDERSTAND FIRST | ANALYZE DEEPER | SECURE BETTER</code>
 </h3>
 
 <p align="center">
 
 <a href="https://www.linkedin.com/in/rifat-bin-tayub/">
-<img
-  src="https://img.shields.io/badge/LINKEDIN-RIFAT%20BIN%20TAYUB-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
-  alt="LinkedIn"
-/>
+  <img
+    src="https://img.shields.io/badge/LINKEDIN-RIFAT%20BIN%20TAYUB-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+    alt="LinkedIn"
+  />
 </a>
 
 <a href="https://tryhackme.com/p/rifatb794">
-<img
-  src="https://img.shields.io/badge/TRYHACKME-RIFATB794-212C42?style=for-the-badge&logo=tryhackme&logoColor=white"
-  alt="TryHackMe"
-/>
+  <img
+    src="https://img.shields.io/badge/TRYHACKME-RIFATB794-212C42?style=for-the-badge&logo=tryhackme&logoColor=white"
+    alt="TryHackMe"
+  />
 </a>
 
 <a href="mailto:rifatb794@gmail.com">
-<img
-  src="https://img.shields.io/badge/EMAIL-CONTACT-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
-  alt="Email"
-/>
+  <img
+    src="https://img.shields.io/badge/EMAIL-CONTACT-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
+    alt="Email"
+  />
 </a>
 
 </p>
@@ -137,7 +140,7 @@ ANALYSIS
   │
   ▼
 SECURITY
-````
+```
 
 I keep coming back to one question:
 
@@ -219,19 +222,19 @@ That question connects almost everything I'm learning.
 ### `> languages_and_development`
 
 <p>
-<img
-  src="https://skillicons.dev/icons?i=python,cs,git,github,vscode&theme=dark"
-  alt="Languages and Development Tools"
-/>
+  <img
+    src="https://skillicons.dev/icons?i=python,cs,git,github,vscode&theme=dark"
+    alt="Languages and Development Tools"
+  />
 </p>
 
 ### `> operating_environment`
 
 <p>
-<img
-  src="https://skillicons.dev/icons?i=linux&theme=dark"
-  alt="Linux"
-/>
+  <img
+    src="https://skillicons.dev/icons?i=linux&theme=dark"
+    alt="Linux"
+  />
 </p>
 
 ### `> security_toolkit`
@@ -426,24 +429,24 @@ That's the mindset I'm trying to build.
 <p align="center">
 
 <a href="https://www.linkedin.com/in/rifat-bin-tayub/">
-<img
-  src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
-  alt="LinkedIn"
-/>
+  <img
+    src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+    alt="LinkedIn"
+  />
 </a>
 
 <a href="https://tryhackme.com/p/rifatb794">
-<img
-  src="https://img.shields.io/badge/TRYHACKME-VIEW%20LABS-212C42?style=for-the-badge&logo=tryhackme&logoColor=white"
-  alt="TryHackMe"
-/>
+  <img
+    src="https://img.shields.io/badge/TRYHACKME-VIEW%20LABS-212C42?style=for-the-badge&logo=tryhackme&logoColor=white"
+    alt="TryHackMe"
+  />
 </a>
 
 <a href="https://x.com/_dark_falcon">
-<img
-  src="https://img.shields.io/badge/X-@_dark_falcon-000000?style=for-the-badge&logo=x&logoColor=white"
-  alt="X"
-/>
+  <img
+    src="https://img.shields.io/badge/X-@_dark_falcon-000000?style=for-the-badge&logo=x&logoColor=white"
+    alt="X"
+  />
 </a>
 
 </p>
@@ -451,31 +454,31 @@ That's the mindset I'm trying to build.
 <p align="center">
 
 <a href="https://www.instagram.com/_sea_sailors/?hl=en">
-<img
-  src="https://img.shields.io/badge/Instagram-_sea_sailors-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
-  alt="Instagram"
-/>
+  <img
+    src="https://img.shields.io/badge/Instagram-_sea_sailors-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
+    alt="Instagram"
+  />
 </a>
 
 <a href="https://www.facebook.com/rifat.bin.tayub">
-<img
-  src="https://img.shields.io/badge/Facebook-Rifat%20Bin%20Tayub-1877F2?style=for-the-badge&logo=facebook&logoColor=white"
-  alt="Facebook"
-/>
+  <img
+    src="https://img.shields.io/badge/Facebook-Rifat%20Bin%20Tayub-1877F2?style=for-the-badge&logo=facebook&logoColor=white"
+    alt="Facebook"
+  />
 </a>
 
 <a href="mailto:rifatb794@gmail.com">
-<img
-  src="https://img.shields.io/badge/Gmail-rifatb794%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
-  alt="Gmail"
-/>
+  <img
+    src="https://img.shields.io/badge/Gmail-rifatb794%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
+    alt="Gmail"
+  />
 </a>
 
 <a href="https://github.com/rifatb794">
-<img
-  src="https://img.shields.io/badge/GitHub-rifatb794-181717?style=for-the-badge&logo=github&logoColor=white"
-  alt="GitHub"
-/>
+  <img
+    src="https://img.shields.io/badge/GitHub-rifatb794-181717?style=for-the-badge&logo=github&logoColor=white"
+    alt="GitHub"
+  />
 </a>
 
 </p>
@@ -518,20 +521,17 @@ I'm always open to connecting with **cybersecurity professionals, developers, st
 ```
 
 <h3 align="center">
-<code>Stay Curious | Understand Deeper | Build Responsibly</code>
+  <code>Stay Curious | Understand Deeper | Build Responsibly</code>
 </h3>
 
 <p align="center">
-<b>One concept • One lab • One project at a time</b>
+  <b>One concept • One lab • One project at a time</b>
 </p>
 
 <p align="center">
-
-<img
-src="https://capsule-render.vercel.app/api?type=waving&height=130&color=0:0284c7,45:0c4a6e,75:071426,100:020617&section=footer&animation=fadeIn"
-width="100%"
-alt="Footer"
-/>
-
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&height=130&color=0:0284c7,45:0c4a6e,75:071426,100:020617&section=footer&animation=fadeIn"
+    width="100%"
+    alt="Footer"
+  />
 </p>
-```
