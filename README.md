@@ -1,7 +1,6 @@
+````markdown
 <!-- ====================================================== -->
-
-<!--                 RIFAT // CYBER OPS                    -->
-
+<!--                 RIFAT | CYBER OPS                      -->
 <!-- ====================================================== -->
 
 <p align="center">
@@ -13,38 +12,38 @@
 </p>
 
 <!-- ====================================================== -->
-
 <!--                    OPERATOR CARD                       -->
-
 <!-- ====================================================== -->
 
 <table align="center">
 <tr>
 
-<td align="center" width="225">
+<td align="center" width="225" valign="top">
+
+<br><br>
 
 <img
-src="https://github.com/rifatb794.png"
-width="170"
-alt="Rifat Bin Tayub"
+  src="https://github.com/rifatb794.png"
+  width="170"
+  alt="Rifat Bin Tayub"
 />
 
 <br><br>
 
-### `RIFAT@CYBER:~$`
+<h3><code>RIFAT@CYBER:~$</code></h3>
 
 <img
-src="https://komarev.com/ghpvc/?username=rifatb794&label=VISITORS&color=0284c7&style=flat-square"
-alt="Profile Visitors"
+  src="https://komarev.com/ghpvc/?username=rifatb794&label=VISITORS&color=0284c7&style=flat-square"
+  alt="Profile Visitors"
 />
 
 </td>
 
 <td valign="top">
 
-## `OPERATOR // 001`
+<h2><code>OPERATOR | 001</code></h2>
 
-```text
+<pre>
 NAME     : Rifat Bin Tayub
 ROLE     : CSE Student
 DOMAIN   : Cybersecurity
@@ -52,10 +51,14 @@ FOCUS    : Network Security + Python
 LAB      : TryHackMe
 MODE     : Learning / Building / Analyzing
 STATUS   : ONLINE
-```
+</pre>
 
-> **I don't want to memorize what a tool does.
-> I want to understand what is happening underneath.**
+<blockquote>
+<b>
+I don't want to memorize what a tool does.<br>
+I want to understand what is happening underneath.
+</b>
+</blockquote>
 
 </td>
 
@@ -65,52 +68,57 @@ STATUS   : ONLINE
 <br>
 
 <!-- ====================================================== -->
-
 <!--                    LIVE CONSOLE                        -->
-
 <!-- ====================================================== -->
 
 <p align="center">
 
 <img
-src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=21&duration=2600&pause=800&color=38BDF8&center=true&vCenter=true&width=900&lines=%3E+tracing+packets...;%3E+understanding+systems...;%3E+analyzing+weaknesses...;%3E+learning+how+defense+works...;%3E+turning+curiosity+into+skills..."
-alt="Cyber Operations Console"
+  src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=21&duration=2600&pause=800&color=38BDF8&center=true&vCenter=true&width=900&lines=%3E+tracing+packets...;%3E+understanding+systems...;%3E+analyzing+weaknesses...;%3E+learning+how+defense+works...;%3E+turning+curiosity+into+skills"
+  alt="Cyber Operations Console"
 />
 
 </p>
 
-<p align="center">
-
-### `UNDERSTAND FIRST // ANALYZE DEEPER // SECURE BETTER`
-
-</p>
+<h3 align="center">
+<code>UNDERSTAND FIRST | ANALYZE DEEPER | SECURE BETTER</code>
+</h3>
 
 <p align="center">
 
 <a href="https://www.linkedin.com/in/rifat-bin-tayub/">
-<img src="https://img.shields.io/badge/LINKEDIN-RIFAT%20BIN%20TAYUB-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img
+  src="https://img.shields.io/badge/LINKEDIN-RIFAT%20BIN%20TAYUB-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+  alt="LinkedIn"
+/>
 </a>
 
 <a href="https://tryhackme.com/p/rifatb794">
-<img src="https://img.shields.io/badge/TRYHACKME-RIFATB794-212C42?style=for-the-badge&logo=tryhackme&logoColor=white"/>
+<img
+  src="https://img.shields.io/badge/TRYHACKME-RIFATB794-212C42?style=for-the-badge&logo=tryhackme&logoColor=white"
+  alt="TryHackMe"
+/>
 </a>
 
 <a href="mailto:rifatb794@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-CONTACT-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img
+  src="https://img.shields.io/badge/EMAIL-CONTACT-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
+  alt="Email"
+/>
 </a>
 
 </p>
 
 ---
 
-# `01 // IDENTITY.sys`
+# `01 | IDENTITY.sys`
 
 I'm a **Computer Science & Engineering student at IUBAT** exploring cybersecurity through hands-on labs, projects, networking fundamentals, Linux, Python, and continuous self-study.
 
 What interests me most is the journey between an action and its result:
 
 ```text
-USER
+ USER
   │
   ▼
 REQUEST
@@ -129,7 +137,7 @@ ANALYSIS
   │
   ▼
 SECURITY
-```
+````
 
 I keep coming back to one question:
 
@@ -139,59 +147,65 @@ That question connects almost everything I'm learning.
 
 ---
 
-# `02 // ACTIVE_OPERATIONS`
+# `02 | ACTIVE_OPERATIONS`
 
 <table>
 <tr>
 
 <td width="33%" valign="top">
 
-### `NET_SEC`
+<h3><code>NET_SEC</code></h3>
 
-🌐 **Network Security**
+🌐 <b>Network Security</b>
 
-* TCP/IP
-* DNS
-* HTTP/HTTPS
-* Protocols
-* Traffic Analysis
-* Network Defense
+<ul>
+<li>TCP/IP</li>
+<li>DNS</li>
+<li>HTTP/HTTPS</li>
+<li>Protocols</li>
+<li>Traffic Analysis</li>
+<li>Network Defense</li>
+</ul>
 
-`STATUS: ACTIVE`
-
-</td>
-
-<td width="33%" valign="top">
-
-### `WEB_SEC`
-
-🌍 **Web Security**
-
-* Requests & Responses
-* Authentication
-* Web Vulnerabilities
-* Security Testing
-* Application Security
-* OWASP Concepts
-
-`STATUS: EXPLORING`
+<code>STATUS: ACTIVE</code>
 
 </td>
 
 <td width="33%" valign="top">
 
-### `CYBER_DEF`
+<h3><code>WEB_SEC</code></h3>
 
-🛡️ **Cybersecurity**
+🌍 <b>Web Security</b>
 
-* Security Fundamentals
-* Ethical Hacking
-* Vulnerability Assessment
-* Access Control
-* Cyber Defense
-* Security Best Practices
+<ul>
+<li>Requests & Responses</li>
+<li>Authentication</li>
+<li>Web Vulnerabilities</li>
+<li>Security Testing</li>
+<li>Application Security</li>
+<li>OWASP Concepts</li>
+</ul>
 
-`STATUS: BUILDING`
+<code>STATUS: EXPLORING</code>
+
+</td>
+
+<td width="33%" valign="top">
+
+<h3><code>CYBER_DEF</code></h3>
+
+🛡️ <b>Cybersecurity</b>
+
+<ul>
+<li>Security Fundamentals</li>
+<li>Ethical Hacking</li>
+<li>Vulnerability Assessment</li>
+<li>Access Control</li>
+<li>Cyber Defense</li>
+<li>Security Best Practices</li>
+</ul>
+
+<code>STATUS: BUILDING</code>
 
 </td>
 
@@ -200,30 +214,59 @@ That question connects almost everything I'm learning.
 
 ---
 
-# `03 // ARSENAL.db`
+# `03 | ARSENAL.db`
 
 ### `> languages_and_development`
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,cs,git,github,vscode&theme=dark"/>
+<img
+  src="https://skillicons.dev/icons?i=python,cs,git,github,vscode&theme=dark"
+  alt="Languages and Development Tools"
+/>
 </p>
 
 ### `> operating_environment`
 
 <p>
-<img src="https://skillicons.dev/icons?i=linux&theme=dark"/>
+<img
+  src="https://skillicons.dev/icons?i=linux&theme=dark"
+  alt="Linux"
+/>
 </p>
 
 ### `> security_toolkit`
 
 <p>
 
-<img src="https://img.shields.io/badge/WIRESHARK-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
-<img src="https://img.shields.io/badge/NMAP-0F172A?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/BURP%20SUITE-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQLMAP-111827?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/MEDUSA-1E293B?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/JOHN%20THE%20RIPPER-334155?style=for-the-badge"/>
+<img
+src="https://img.shields.io/badge/WIRESHARK-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"
+alt="Wireshark"
+/>
+
+<img
+src="https://img.shields.io/badge/NMAP-0F172A?style=for-the-badge"
+alt="Nmap"
+/>
+
+<img
+src="https://img.shields.io/badge/BURP%20SUITE-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white"
+alt="Burp Suite"
+/>
+
+<img
+src="https://img.shields.io/badge/SQLMAP-111827?style=for-the-badge"
+alt="SQLMap"
+/>
+
+<img
+src="https://img.shields.io/badge/MEDUSA-1E293B?style=for-the-badge"
+alt="Medusa"
+/>
+
+<img
+src="https://img.shields.io/badge/JOHN%20THE%20RIPPER-334155?style=for-the-badge"
+alt="John the Ripper"
+/>
 
 </p>
 
@@ -231,11 +274,11 @@ That question connects almost everything I'm learning.
 
 ---
 
-# `04 // DEPLOYED_PROJECTS`
+# `04 | DEPLOYED_PROJECTS`
 
 <details open>
 
-<summary><b>🛡️ PROJECT_01 // Cyber Threat Reporting System</b></summary>
+<summary><b>🛡️ PROJECT_01 | Cyber Threat Reporting System</b></summary>
 
 <br>
 
@@ -253,7 +296,7 @@ A web application built to report and manage cyber threat incidents while explor
 
 <details>
 
-<summary><b>🔐 PROJECT_02 // Secure WiFi Authentication — DFA</b></summary>
+<summary><b>🔐 PROJECT_02 | Secure WiFi Authentication — DFA</b></summary>
 
 <br>
 
@@ -271,7 +314,7 @@ A desktop simulation applying **Deterministic Finite Automata** concepts to a se
 
 <details>
 
-<summary><b>🛒 PROJECT_03 // Smart Grocery Store Web App</b></summary>
+<summary><b>🛒 PROJECT_03 | Smart Grocery Store Web App</b></summary>
 
 <br>
 
@@ -285,7 +328,7 @@ A practical software project created to apply programming and application-develo
 
 ---
 
-# `05 // LIVE_LAB`
+# `05 | LIVE_LAB`
 
 ```yaml
 operator: Rifat Bin Tayub
@@ -324,7 +367,7 @@ documentation:
   status: enabled
 ```
 
-### Current learning loop
+### `CURRENT_LEARNING_LOOP`
 
 ```text
 LEARN
@@ -345,7 +388,7 @@ DOCUMENT
 
 ---
 
-# `06 // WHY_CYBERSECURITY`
+# `06 | WHY_CYBERSECURITY`
 
 At first, cybersecurity tools were what caught my attention.
 
@@ -378,20 +421,29 @@ That's the mindset I'm trying to build.
 
 ---
 
-# `07 // OPEN_CHANNELS`
+# `07 | OPEN_CHANNELS`
 
 <p align="center">
 
 <a href="https://www.linkedin.com/in/rifat-bin-tayub/">
-<img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img
+  src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+  alt="LinkedIn"
+/>
 </a>
 
 <a href="https://tryhackme.com/p/rifatb794">
-<img src="https://img.shields.io/badge/TRYHACKME-VIEW%20LABS-212C42?style=for-the-badge&logo=tryhackme&logoColor=white"/>
+<img
+  src="https://img.shields.io/badge/TRYHACKME-VIEW%20LABS-212C42?style=for-the-badge&logo=tryhackme&logoColor=white"
+  alt="TryHackMe"
+/>
 </a>
 
 <a href="https://x.com/_dark_falcon">
-<img src="https://img.shields.io/badge/X-@_dark_falcon-000000?style=for-the-badge&logo=x&logoColor=white"/>
+<img
+  src="https://img.shields.io/badge/X-@_dark_falcon-000000?style=for-the-badge&logo=x&logoColor=white"
+  alt="X"
+/>
 </a>
 
 </p>
@@ -399,19 +451,31 @@ That's the mindset I'm trying to build.
 <p align="center">
 
 <a href="https://www.instagram.com/_sea_sailors/?hl=en">
-<img src="https://img.shields.io/badge/Instagram-_sea_sailors-E4405F?style=flat-square&logo=instagram&logoColor=white"/>
+<img
+  src="https://img.shields.io/badge/Instagram-_sea_sailors-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
+  alt="Instagram"
+/>
 </a>
 
 <a href="https://www.facebook.com/rifat.bin.tayub">
-<img src="https://img.shields.io/badge/Facebook-Rifat%20Bin%20Tayub-1877F2?style=flat-square&logo=facebook&logoColor=white"/>
+<img
+  src="https://img.shields.io/badge/Facebook-Rifat%20Bin%20Tayub-1877F2?style=for-the-badge&logo=facebook&logoColor=white"
+  alt="Facebook"
+/>
 </a>
 
 <a href="mailto:rifatb794@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-rifatb794%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
+<img
+  src="https://img.shields.io/badge/Gmail-rifatb794%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
+  alt="Gmail"
+/>
 </a>
 
 <a href="https://github.com/rifatb794">
-<img src="https://img.shields.io/badge/GitHub-rifatb794-181717?style=flat-square&logo=github&logoColor=white"/>
+<img
+  src="https://img.shields.io/badge/GitHub-rifatb794-181717?style=for-the-badge&logo=github&logoColor=white"
+  alt="GitHub"
+/>
 </a>
 
 </p>
@@ -425,14 +489,20 @@ That's the mindset I'm trying to build.
 I'm always open to connecting with **cybersecurity professionals, developers, students, and fellow learners** who enjoy learning, building, and exchanging ideas.
 
 📧 **Email:** [rifatb794@gmail.com](mailto:rifatb794@gmail.com)
-💼 **LinkedIn:** https://www.linkedin.com/in/rifat-bin-tayub/
-🛡️ **TryHackMe:** https://tryhackme.com/p/rifatb794
+
+💼 **LinkedIn:** [linkedin.com/in/rifat-bin-tayub](https://www.linkedin.com/in/rifat-bin-tayub/)
+
+🛡️ **TryHackMe:** [tryhackme.com/p/rifatb794](https://tryhackme.com/p/rifatb794)
+
+📸 **Instagram:** [instagram.com/_sea_sailors](https://www.instagram.com/_sea_sailors/?hl=en)
+
+🐦 **X:** [@_dark_falcon](https://x.com/_dark_falcon)
 
 </details>
 
 ---
 
-# `SYSTEM // STATUS`
+# `SYSTEM | STATUS`
 
 ```text
 ╭─────────────────────────────────────────────────╮
@@ -447,12 +517,12 @@ I'm always open to connecting with **cybersecurity professionals, developers, st
 ╰─────────────────────────────────────────────────╯
 ```
 
+<h3 align="center">
+<code>Stay Curious | Understand Deeper | Build Responsibly</code>
+</h3>
+
 <p align="center">
-
-### `Stay Curious // Understand Deeper // Build Responsibly`
-
-**One concept • One lab • One project at a time**
-
+<b>One concept • One lab • One project at a time</b>
 </p>
 
 <p align="center">
@@ -464,3 +534,4 @@ alt="Footer"
 />
 
 </p>
+```
