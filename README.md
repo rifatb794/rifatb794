@@ -1,7 +1,5 @@
 <!-- ====================================================== -->
-
 <!--                 RIFAT | CYBER OPS                      -->
-
 <!-- ====================================================== -->
 
 <p align="center">
@@ -13,9 +11,7 @@
 </p>
 
 <!-- ====================================================== -->
-
 <!--                    OPERATOR CARD                       -->
-
 <!-- ====================================================== -->
 
 <table align="center">
@@ -26,9 +22,9 @@
 <br><br>
 
 <img
-src="https://github.com/rifatb794.png"
-width="170"
-alt="Rifat Bin Tayub"
+  src="https://avatars.githubusercontent.com/u/231051701?v=4"
+  width="170"
+  alt="Rifat Bin Tayub"
 />
 
 <br><br>
@@ -36,8 +32,8 @@ alt="Rifat Bin Tayub"
 <h3><code>RIFAT@CYBER:~$</code></h3>
 
 <img
-src="https://komarev.com/ghpvc/?username=rifatb794&label=VISITORS&color=0284c7&style=flat-square"
-alt="Profile Visitors"
+  src="https://komarev.com/ghpvc/?username=rifatb794&label=VISITORS&color=0284c7&style=flat-square"
+  alt="Profile Visitors"
 />
 
 </td>
@@ -71,9 +67,7 @@ I want to understand what is happening underneath.
 <br>
 
 <!-- ====================================================== -->
-
 <!--                    LIVE CONSOLE                        -->
-
 <!-- ====================================================== -->
 
 <p align="center">
@@ -242,33 +236,33 @@ That question connects almost everything I'm learning.
 <p>
 
 <img
-src="https://img.shields.io/badge/WIRESHARK-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"
-alt="Wireshark"
+  src="https://img.shields.io/badge/WIRESHARK-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"
+  alt="Wireshark"
 />
 
 <img
-src="https://img.shields.io/badge/NMAP-0F172A?style=for-the-badge"
-alt="Nmap"
+  src="https://img.shields.io/badge/NMAP-0F172A?style=for-the-badge"
+  alt="Nmap"
 />
 
 <img
-src="https://img.shields.io/badge/BURP%20SUITE-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white"
-alt="Burp Suite"
+  src="https://img.shields.io/badge/BURP%20SUITE-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white"
+  alt="Burp Suite"
 />
 
 <img
-src="https://img.shields.io/badge/SQLMAP-111827?style=for-the-badge"
-alt="SQLMap"
+  src="https://img.shields.io/badge/SQLMAP-111827?style=for-the-badge"
+  alt="SQLMap"
 />
 
 <img
-src="https://img.shields.io/badge/MEDUSA-1E293B?style=for-the-badge"
-alt="Medusa"
+  src="https://img.shields.io/badge/MEDUSA-1E293B?style=for-the-badge"
+  alt="Medusa"
 />
 
 <img
-src="https://img.shields.io/badge/JOHN%20THE%20RIPPER-334155?style=for-the-badge"
-alt="John the Ripper"
+  src="https://img.shields.io/badge/JOHN%20THE%20RIPPER-334155?style=for-the-badge"
+  alt="John the Ripper"
 />
 
 </p>
