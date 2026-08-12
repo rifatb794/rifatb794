@@ -1,1 +1,466 @@
-# rifatbb794
+<!-- ====================================================== -->
+
+<!--                 RIFAT // CYBER OPS                    -->
+
+<!-- ====================================================== -->
+
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:020617,40:071426,75:0c4a6e,100:0284c7&text=RIFAT%20BIN%20TAYUB&fontColor=ffffff&fontSize=46&fontAlignY=37&desc=CYBERSECURITY%20%E2%80%A2%20NETWORK%20SECURITY%20%E2%80%A2%20PYTHON&descAlignY=58&descSize=16&animation=fadeIn"
+    width="100%"
+    alt="Rifat Bin Tayub"
+  />
+</p>
+
+<!-- ====================================================== -->
+
+<!--                    OPERATOR CARD                       -->
+
+<!-- ====================================================== -->
+
+<table align="center">
+<tr>
+
+<td align="center" width="225">
+
+<img
+src="https://github.com/rifatb794.png"
+width="170"
+alt="Rifat Bin Tayub"
+/>
+
+<br><br>
+
+### `RIFAT@CYBER:~$`
+
+<img
+src="https://komarev.com/ghpvc/?username=rifatb794&label=VISITORS&color=0284c7&style=flat-square"
+alt="Profile Visitors"
+/>
+
+</td>
+
+<td valign="top">
+
+## `OPERATOR // 001`
+
+```text
+NAME     : Rifat Bin Tayub
+ROLE     : CSE Student
+DOMAIN   : Cybersecurity
+FOCUS    : Network Security + Python
+LAB      : TryHackMe
+MODE     : Learning / Building / Analyzing
+STATUS   : ONLINE
+```
+
+> **I don't want to memorize what a tool does.
+> I want to understand what is happening underneath.**
+
+</td>
+
+</tr>
+</table>
+
+<br>
+
+<!-- ====================================================== -->
+
+<!--                    LIVE CONSOLE                        -->
+
+<!-- ====================================================== -->
+
+<p align="center">
+
+<img
+src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=21&duration=2600&pause=800&color=38BDF8&center=true&vCenter=true&width=900&lines=%3E+tracing+packets...;%3E+understanding+systems...;%3E+analyzing+weaknesses...;%3E+learning+how+defense+works...;%3E+turning+curiosity+into+skills..."
+alt="Cyber Operations Console"
+/>
+
+</p>
+
+<p align="center">
+
+### `UNDERSTAND FIRST // ANALYZE DEEPER // SECURE BETTER`
+
+</p>
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/rifat-bin-tayub/">
+<img src="https://img.shields.io/badge/LINKEDIN-RIFAT%20BIN%20TAYUB-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://tryhackme.com/p/rifatb794">
+<img src="https://img.shields.io/badge/TRYHACKME-RIFATB794-212C42?style=for-the-badge&logo=tryhackme&logoColor=white"/>
+</a>
+
+<a href="mailto:rifatb794@gmail.com">
+<img src="https://img.shields.io/badge/EMAIL-CONTACT-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+# `01 // IDENTITY.sys`
+
+I'm a **Computer Science & Engineering student at IUBAT** exploring cybersecurity through hands-on labs, projects, networking fundamentals, Linux, Python, and continuous self-study.
+
+What interests me most is the journey between an action and its result:
+
+```text
+USER
+  │
+  ▼
+REQUEST
+  │
+  ▼
+NETWORK
+  │
+  ▼
+SYSTEM
+  │
+  ▼
+BEHAVIOR
+  │
+  ▼
+ANALYSIS
+  │
+  ▼
+SECURITY
+```
+
+I keep coming back to one question:
+
+### `> What is actually happening underneath?`
+
+That question connects almost everything I'm learning.
+
+---
+
+# `02 // ACTIVE_OPERATIONS`
+
+<table>
+<tr>
+
+<td width="33%" valign="top">
+
+### `NET_SEC`
+
+🌐 **Network Security**
+
+* TCP/IP
+* DNS
+* HTTP/HTTPS
+* Protocols
+* Traffic Analysis
+* Network Defense
+
+`STATUS: ACTIVE`
+
+</td>
+
+<td width="33%" valign="top">
+
+### `WEB_SEC`
+
+🌍 **Web Security**
+
+* Requests & Responses
+* Authentication
+* Web Vulnerabilities
+* Security Testing
+* Application Security
+* OWASP Concepts
+
+`STATUS: EXPLORING`
+
+</td>
+
+<td width="33%" valign="top">
+
+### `CYBER_DEF`
+
+🛡️ **Cybersecurity**
+
+* Security Fundamentals
+* Ethical Hacking
+* Vulnerability Assessment
+* Access Control
+* Cyber Defense
+* Security Best Practices
+
+`STATUS: BUILDING`
+
+</td>
+
+</tr>
+</table>
+
+---
+
+# `03 // ARSENAL.db`
+
+### `> languages_and_development`
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,cs,git,github,vscode&theme=dark"/>
+</p>
+
+### `> operating_environment`
+
+<p>
+<img src="https://skillicons.dev/icons?i=linux&theme=dark"/>
+</p>
+
+### `> security_toolkit`
+
+<p>
+
+<img src="https://img.shields.io/badge/WIRESHARK-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
+<img src="https://img.shields.io/badge/NMAP-0F172A?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/BURP%20SUITE-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQLMAP-111827?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/MEDUSA-1E293B?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/JOHN%20THE%20RIPPER-334155?style=for-the-badge"/>
+
+</p>
+
+> **Tools are part of the process. Fundamentals are what make the output meaningful.**
+
+---
+
+# `04 // DEPLOYED_PROJECTS`
+
+<details open>
+
+<summary><b>🛡️ PROJECT_01 // Cyber Threat Reporting System</b></summary>
+
+<br>
+
+**Stack:** `Python` `Flask` `Cybersecurity`
+
+A web application built to report and manage cyber threat incidents while exploring structured cybersecurity workflows.
+
+**Objective:** Combine Python development with practical security-focused problem solving.
+
+🔗 [Open Repository](https://github.com/rifatb794/cyber-threat-reporting-system)
+
+</details>
+
+---
+
+<details>
+
+<summary><b>🔐 PROJECT_02 // Secure WiFi Authentication — DFA</b></summary>
+
+<br>
+
+**Stack:** `Python` `Tkinter` `DFA` `Security`
+
+A desktop simulation applying **Deterministic Finite Automata** concepts to a secure WiFi authentication workflow.
+
+**Objective:** Connect automata theory with authentication and application development.
+
+🔗 [Open Repository](https://github.com/rifatb794/secure-wifi-authentication-dfa)
+
+</details>
+
+---
+
+<details>
+
+<summary><b>🛒 PROJECT_03 // Smart Grocery Store Web App</b></summary>
+
+<br>
+
+**Stack:** `C#` `Web Development`
+
+A practical software project created to apply programming and application-development concepts to a working system.
+
+🔗 [Open Repository](https://github.com/rifatb794/Smart-Grocery-Store-Web-App)
+
+</details>
+
+---
+
+# `05 // LIVE_LAB`
+
+```yaml
+operator: Rifat Bin Tayub
+
+network_security:
+  status: active
+  focus:
+    - TCP/IP
+    - protocols
+    - traffic analysis
+
+web_security:
+  status: exploring
+  focus:
+    - HTTP
+    - authentication
+    - web vulnerabilities
+
+cybersecurity:
+  status: building
+  focus:
+    - security fundamentals
+    - vulnerability assessment
+    - cyber defense
+
+python:
+  status: building
+
+linux:
+  status: practicing
+
+tryhackme:
+  status: active
+
+documentation:
+  status: enabled
+```
+
+### Current learning loop
+
+```text
+LEARN
+  ↓
+BUILD
+  ↓
+TEST IN LABS
+  ↓
+ANALYZE
+  ↓
+UNDERSTAND
+  ↓
+IMPROVE
+  ↓
+DOCUMENT
+  ↺
+```
+
+---
+
+# `06 // WHY_CYBERSECURITY`
+
+At first, cybersecurity tools were what caught my attention.
+
+Then I realized something:
+
+```text
+A TOOL CAN SHOW THE RESULT.
+
+FUNDAMENTALS HELP EXPLAIN
+WHY THE RESULT HAPPENED.
+```
+
+That changed the way I learn.
+
+Instead of asking only:
+
+### `> Which tool should I learn next?`
+
+I now spend more time asking:
+
+### `> Why did the system behave that way?`
+
+### `> What does normal behavior look like?`
+
+### `> Where could something go wrong?`
+
+### `> How would a defender recognize it?`
+
+That's the mindset I'm trying to build.
+
+---
+
+# `07 // OPEN_CHANNELS`
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/rifat-bin-tayub/">
+<img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://tryhackme.com/p/rifatb794">
+<img src="https://img.shields.io/badge/TRYHACKME-VIEW%20LABS-212C42?style=for-the-badge&logo=tryhackme&logoColor=white"/>
+</a>
+
+<a href="https://x.com/_dark_falcon">
+<img src="https://img.shields.io/badge/X-@_dark_falcon-000000?style=for-the-badge&logo=x&logoColor=white"/>
+</a>
+
+</p>
+
+<p align="center">
+
+<a href="https://www.instagram.com/_sea_sailors/?hl=en">
+<img src="https://img.shields.io/badge/Instagram-_sea_sailors-E4405F?style=flat-square&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="https://www.facebook.com/rifat.bin.tayub">
+<img src="https://img.shields.io/badge/Facebook-Rifat%20Bin%20Tayub-1877F2?style=flat-square&logo=facebook&logoColor=white"/>
+</a>
+
+<a href="mailto:rifatb794@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-rifatb794%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/rifatb794">
+<img src="https://img.shields.io/badge/GitHub-rifatb794-181717?style=flat-square&logo=github&logoColor=white"/>
+</a>
+
+</p>
+
+<details>
+
+<summary><b>📡 OPEN COMMUNICATION CHANNEL</b></summary>
+
+<br>
+
+I'm always open to connecting with **cybersecurity professionals, developers, students, and fellow learners** who enjoy learning, building, and exchanging ideas.
+
+📧 **Email:** [rifatb794@gmail.com](mailto:rifatb794@gmail.com)
+💼 **LinkedIn:** https://www.linkedin.com/in/rifat-bin-tayub/
+🛡️ **TryHackMe:** https://tryhackme.com/p/rifatb794
+
+</details>
+
+---
+
+# `SYSTEM // STATUS`
+
+```text
+╭─────────────────────────────────────────────────╮
+│                                                 │
+│   OPERATOR       : RIFAT BIN TAYUB              │
+│   SESSION        : ACTIVE                       │
+│   CURIOSITY      : ENABLED                      │
+│   LEARNING       : CONTINUOUS                   │
+│   BUILD MODE     : ON                           │
+│   NEXT OBJECTIVE : LOADING...                   │
+│                                                 │
+╰─────────────────────────────────────────────────╯
+```
+
+<p align="center">
+
+### `Stay Curious // Understand Deeper // Build Responsibly`
+
+**One concept • One lab • One project at a time**
+
+</p>
+
+<p align="center">
+
+<img
+src="https://capsule-render.vercel.app/api?type=waving&height=130&color=0:0284c7,45:0c4a6e,75:071426,100:020617&section=footer&animation=fadeIn"
+width="100%"
+alt="Footer"
+/>
+
+</p>
